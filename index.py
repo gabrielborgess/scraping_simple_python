@@ -1,7 +1,7 @@
 import requests
 import os
 
-url="https://www.google.com/"
+url="https://www.google.com/"    #Change this url
 
 pagina=requests.get(url)
 
